@@ -57,12 +57,6 @@ A **MATLAB-based** guide to estimating **fractal exponents** in time-series data
 
 ---
 
-## 📈 LeetCode Progress  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/clementroume?theme=dark&font=JetBrains%20Mono)  
-
----
-
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/croume/)  
